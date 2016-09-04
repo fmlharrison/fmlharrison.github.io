@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: I'm hiding behind my keyboard - My journey through Makers Academy Web Dev Course....
+title: I'm hiding behind my keyboard!
 email: fmlharrison@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   In this blog I will document my rather stupid choice to put myself through the (supposed) hell that is the Makers Academy Wed Development Immersive Course. Over the next 16 weeks I will be writing about the highs, lows, ins, out and shake it all abouts of my journey. How many coffee and Red Bulls will I drink? Keep reading to find out!
